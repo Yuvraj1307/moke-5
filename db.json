@@ -1,0 +1,47 @@
+{
+  "freelancers": [
+    {
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "password",
+      "profession": "Web Developer",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "hourly_rate": 25,
+      "profile_picture": "profile1.jpg",
+      "isBooked": false,
+      "id": 1
+    },
+    {
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "password": "password",
+      "profession": "Graphic Designer",
+      "skills": [
+        "Photoshop",
+        "Illustrator"
+      ],
+      "hourly_rate": 30,
+      "profile_picture": "profile2.jpg",
+      "isBooked": false,
+      "id": 2
+    },
+    {
+      "name": "a",
+      "profile_picture": "a",
+      "email": "a",
+      "password": "a",
+      "hourly_rate": "120",
+      "skills": [
+        "a",
+        "b",
+        "c"
+      ],
+      "profession": "Web_Developer",
+      "id": 4
+    }
+  ]
+}
